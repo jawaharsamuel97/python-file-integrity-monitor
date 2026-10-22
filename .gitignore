@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+baseline.json
+test_files/*
+!test_files/.gitkeep
